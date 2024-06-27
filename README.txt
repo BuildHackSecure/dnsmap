@@ -1,3 +1,5 @@
+TEST
+
 INTRODUCTION
 
 dnsmap was originally released back in 2006 and was inspired by the
